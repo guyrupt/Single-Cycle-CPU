@@ -4,7 +4,7 @@
 
 ![](./img/datapath.png)
 
-## Supported Instrctions
+## Supported Instructions
 
 - and rd, rs1, rs2 (bitwise and)
 
