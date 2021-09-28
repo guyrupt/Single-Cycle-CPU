@@ -22,4 +22,4 @@
 
 - srai rd, rs1, imm (shift right arithmetically)
 
-Instructions should be convert into machine code for CPU input
+Instructions should be convert into RISC-V machine code format for CPU input.
